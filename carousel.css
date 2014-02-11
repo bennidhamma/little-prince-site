@@ -64,15 +64,15 @@ h1 {
 }
 
 .carousel-inner > .item.first {
-  background-image: url(/images/businessman.jpg);
+  background-image: url(images/businessman.jpg);
 }
 
 .carousel-inner > .item.second {
-  background-image: url(/images/LP137.JPG);
+  background-image: url(images/LP137.JPG);
 }
 
 .carousel-inner > .item.third {
-  background-image: url(/images/LP048.JPG);
+  background-image: url(images/LP048.JPG);
 }
 
 
